@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37793ede-7e1a-43b3-9314-427594489368" name="Changes" comment="uploading the project">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Exception" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "joaopsouza-dev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/joaopsouza-dev/sistema-gestao-vagas",
+    "accountId": "140ec171-2248-44f2-8f08-7bddfbb312ce"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5205615337774572" />
+      <entry key="MS500" value="3.666968589894775" />
+      <entry key="S2" value="5.767237286714379" />
+      <entry key="S5" value="6.460206318460465" />
+      <entry key="S10" value="6.721568574765143" />
+      <entry key="S30" value="6.907138088191889" />
+      <entry key="S60" value="7.059626594925833" />
+      <entry key="M2" value="7.817010958476243" />
+      <entry key="M5" value="13.786379094386268" />
+      <entry key="M10" value="30.656478469056026" />
+      <entry key="M15" value="45.820778103742825" />
+      <entry key="M30" value="80.1277599497096" />
+      <entry key="H1" value="121.58096698609776" />
+      <entry key="H2" value="158.5214051695639" />
+      <entry key="H4" value="188.15540404318446" />
+      <entry key="D1" value="570.0657286312646" />
+      <entry key="W1" value="1161.819343785589" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="5.567171636100711E-289" />
+      <entry key="S10" value="1.423912542854538E-144" />
+      <entry key="S30" value="3.4710425169296533E-48" />
+      <entry key="S60" value="5.343110303336086E-24" />
+      <entry key="M2" value="8.64467590599876E-12" />
+      <entry key="M5" value="2.879250382058643E-4" />
+      <entry key="M10" value="0.1113700435443207" />
+      <entry key="M15" value="0.834452605238055" />
+      <entry key="M30" value="6.346052495962" />
+      <entry key="H1" value="17.60037150852623" />
+      <entry key="H2" value="29.36140278178921" />
+      <entry key="H4" value="38.97281913162809" />
+      <entry key="D1" value="173.64362131733282" />
+      <entry key="W1" value="410.43694929004187" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.4335941633265035" />
+      <entry key="MS500" value="3.5439286883234185" />
+      <entry key="S2" value="5.716435150426993" />
+      <entry key="S5" value="6.437620841994756" />
+      <entry key="S10" value="6.709865958397062" />
+      <entry key="S30" value="6.903142634805711" />
+      <entry key="S60" value="7.057609662985214" />
+      <entry key="M2" value="7.815974304981421" />
+      <entry key="M5" value="13.7861715716247" />
+      <entry key="M10" value="30.767092636845085" />
+      <entry key="M15" value="46.65297033599981" />
+      <entry key="M30" value="86.46628511249207" />
+      <entry key="H1" value="139.17114228802922" />
+      <entry key="H2" value="187.8743691897631" />
+      <entry key="H4" value="227.12264188463155" />
+      <entry key="D1" value="743.7052400022498" />
+      <entry key="W1" value="1572.2549062858188" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Khjn3HW2Qb5dbMRJB3ClAGlwPb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.play application.executor": "Run",
+    "Maven.gestao_vagas [clean].executor": "Run",
+    "Maven.gestao_vagas [compile].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.GestaoVagasApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/joaopedro/Documents/github repositories/aulas_rocketseat/gestao_vagas",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.joaopedro.gestaoVagas.modules.candidate" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="play application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.joaopedro.gestaoVagas.GestaoVagasApplication" />
+      <module name="gestao_vagas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37793ede-7e1a-43b3-9314-427594489368" name="Changes" comment="" />
+      <created>1792016858922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792016858922</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'main' of https://github.com/joaopsouza-dev/sistema-gestao-vagas" />
+    <MESSAGE value="uploading the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploading the project" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
